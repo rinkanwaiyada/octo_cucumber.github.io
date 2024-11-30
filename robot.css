@@ -1,8 +1,12 @@
 .col {
     flex-grow: 0;
 }
+
+#logo {
+    padding-right: 100px;
+}
 #home {
-    padding-left: 200px;
+    padding-left: 350px;
 }
 
 a {
